@@ -45,7 +45,13 @@ function generateMarkdown(data) {
   *[Questions](#questions)
 
   ## Installation
-  To install 
+  To install dependencies, run the following comman:
+  
+  \"\"\"
+  ${data.installation}
+  \"\"\"
+
+  #
 
 
 
